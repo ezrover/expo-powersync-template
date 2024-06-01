@@ -40,7 +40,7 @@ This will open the app in the iOS simulator or Android emulator.
 
 ### Contributions
 
-Inspired by: 
+Inspired by: https://github.com/launchtrack/expo-local-first-template
 
 Everyone is welcome to contribute to this project. Feel free to open an issue if you have question or found a bug. Totally open to any suggestions and improvements.
 
